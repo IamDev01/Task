@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewModel Trainer</string>
+    <string name="taskscreen">Tasks</string>
+    <string name="addtask">Add Task</string>
+</resources>
